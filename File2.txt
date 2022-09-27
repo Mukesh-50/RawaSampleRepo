@@ -1,1 +1,2 @@
 This is my first sample file 2 for git
+File 2 changes
